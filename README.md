@@ -123,7 +123,5 @@ src/
 - Role-based access control
 - Secure authentication via Supabase Auth
 
-## 📄 License
 
-This project is proprietary software developed for EWIT.
 
